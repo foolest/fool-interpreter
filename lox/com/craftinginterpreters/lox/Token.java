@@ -1,7 +1,5 @@
 package com.craftinginterpreters.lox;
 
-import javax.management.ConstructorParameters;
-
 class Token {
     final TokenType type;
     final String lexeme;
